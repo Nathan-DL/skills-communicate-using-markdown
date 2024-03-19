@@ -14,3 +14,9 @@ Added readme file to Git repository
 ``` javascript
 const number = 5;
 ```
+
+- [x] Write headers
+- [x] Add an image
+- [x] Write code
+- [ ] Add task list
+- [ ] Merge pull request
